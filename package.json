@@ -1,0 +1,28 @@
+{
+	"name": "Express_Nodejs",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/EdManDev/Express_Nodejs.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/EdManDev/Express_Nodejs/issues"
+	},
+	"homepage": "https://github.com/EdManDev/Express_Nodejs#readme",
+	"dependencies": {
+		"express": "^4.17.1",
+		"nodemailer": "^6.3.0",
+		"nodemailer-mailgun-transport": "^1.4.0"
+	},
+	"devDependencies": {
+		"nodemon": "^1.19.2"
+	}
+}
